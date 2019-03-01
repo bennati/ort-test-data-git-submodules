@@ -1,3 +1,6 @@
 [submodule "test-data-npm"]
 	path = test-data-npm
 	url = git@github.com:heremaps/oss-review-toolkit-test-data-npm.git
+[submodule "commons-text"]
+	path = commons-text
+	url = https://github.com/apache/commons-text.git
