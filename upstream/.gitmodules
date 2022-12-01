@@ -1,6 +1,6 @@
-[submodule "test-data-npm"]
-	path = test-data-npm
+[submodule "submodules/test-data-npm"]
+	path = submodules/test-data-npm
 	url = https://github.com/oss-review-toolkit/ort-test-data-npm.git
-[submodule "commons-text"]
-	path = commons-text
+[submodule "submodules/commons-text"]
+	path = submodules/commons-text
 	url = https://github.com/apache/commons-text.git
